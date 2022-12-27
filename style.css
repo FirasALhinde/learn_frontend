@@ -1,0 +1,23 @@
+h1,
+h3 {
+  background-color: red;
+}
+.myheader {
+  background-color: aqua;
+}
+#iii {
+  background-color: navy;
+  color: aliceblue;
+}
+.cont {
+  background-color: rgb(195, 34, 163);
+  /* border: 10px dashed; */
+  border-left: 10px solid red;
+  border-radius: 5px;
+  padding: 5px;
+  
+}
+img {
+    width: 215px;
+    margin-top: 20px;
+}
